@@ -1,19 +1,23 @@
 # Cabify Code Exercise
 
 ## Installation
-1. Install gulp
+1. Clone repository
   ```bash
-  npm install -g gulp
+    git clone https://github.com/jcamposs/javascript-code-challenge.git
+  ```
+2. Install gulp
+  ```bash
+    npm install -g gulp
   ```
 
-2. Move to the project
+3. Move to the project
   ```bash
-  cd cabify-challenge
-    ```
+    cd cabify-challenge
+  ```
 
-3. Install dependencies
+4. Install dependencies
   ```bash
-  npm install
+    npm install
   ```
 
 ## Usage
